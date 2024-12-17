@@ -1,4 +1,4 @@
-recursive brute force
+## recursive brute force
 
 ## Description
 I wanted to practice recursion and I thought of this problem, with recursion I can theoretically crack a password of infinite length.
