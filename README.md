@@ -1,5 +1,7 @@
-# Cybersecurity---Simple-Brute-Force-Algorithm
+recursive brute force
 
 ## Description
-This project is a Java learning project. I am trying to code it using my own logic without using external ressources.
-The algorithm might not be optimal. I will create a possibly optimized version later after doing the research.
+I wanted to practice recursion and I thought of this problem, with recursion I can theoretically crack a password of infinite length.
+
+Though, I think that the algorithm is far from being optimal for a brute force.
+
